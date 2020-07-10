@@ -1,7 +1,9 @@
-### Alexandre Martins (Agronault)
+# Alexandre Martins (Agronault) 
 
-- 🐷 Crawlers & Data on [Melhor Plano](https://melhorplano.net/)
-- 🦜 Managing Director on [Commit Jr](https://commitjr.com/)
+### 🐷 Crawlers & Data on [Melhor Plano](https://melhorplano.net/)
+### 🦜 Managing Director on [Commit Jr](https://commitjr.com/)
+
+
 
 <!--
 **Agronault/agronault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
