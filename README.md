@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-martins-agronault/)](https://www.linkedin.com/in/alexandre-martins-agronault/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre@melhorplano.net)](mailto:alexandre@melhorplano.net)
 
-### 🐷 Crawlers & Data on [Melhor Plano](https://melhorplano.net/)
+### 🐷 Product Manager on [Melhor Plano](https://melhorplano.net/)
 ### 🦜 Managing Director on [Commit Jr](https://commitjr.com/)
 
 ![LhamaniaFrame](https://i.imgur.com/tAdv2HR.png)
